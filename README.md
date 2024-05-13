@@ -1,8 +1,9 @@
-# bootcampdevjr-projeto08
-Cadastro de Produtos
+# bootcampdevjr-projeto08 - Cadastro de Produtos
+HTML, BOOTSTRAP E JAVASCRIPT
 
-Versão Desktop 
+# Imagens
+## Versão Desktop 
 <img src="docs/app-desktop.jpeg">
 
-Versão Mobile
+## Versão Mobile
 <img src="docs/app-mobile.jpeg">
